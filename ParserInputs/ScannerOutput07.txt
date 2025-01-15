@@ -1,0 +1,8 @@
+<[>
+<STR, true>
+<,>
+<STR, apple>
+<,>
+<STR, orange>
+<]>
+<EOF>

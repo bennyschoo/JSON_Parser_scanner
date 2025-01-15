@@ -1,0 +1,8 @@
+<[>
+<STR, Grapes>
+<,>
+<STR, are>
+<,>
+<STR, Yummy!>
+<]>
+<EOF>

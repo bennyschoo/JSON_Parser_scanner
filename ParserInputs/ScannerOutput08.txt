@@ -1,0 +1,32 @@
+<{>
+<STR, apple>
+<:>
+<NUM, 123>
+<,>
+<STR, Grape>
+<:>
+<NUM, 321>
+<,>
+<STR, burger>
+<:>
+<{>
+<STR, tape>
+<:>
+<BOOL, true>
+<,>
+<STR, sun>
+<:>
+<BOOL, false>
+<}>
+<,>
+<STR, banana>
+<:>
+<[>
+<NUM, 123>
+<,>
+<NUM, 321>
+<,>
+<NUM, 333>
+<]>
+<}>
+<EOF>

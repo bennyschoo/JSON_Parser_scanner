@@ -1,0 +1,10 @@
+<{>
+<STR, apple>
+<:>
+<STR, Green>
+<,>
+<STR, apple>
+<:>
+<STR, red>
+<}>
+<EOF>

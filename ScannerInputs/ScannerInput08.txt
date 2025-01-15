@@ -1,0 +1,6 @@
+{
+    "apple": 123,
+    "Grape": 321,
+    "burger": {"tape":true, "sun": false},
+    "banana": [123,321,333]
+}

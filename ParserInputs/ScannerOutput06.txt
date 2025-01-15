@@ -1,0 +1,8 @@
+<[>
+<STR, apple>
+<,>
+<STR, Grape>
+<,>
+<NUM, 123>
+<]>
+<EOF>

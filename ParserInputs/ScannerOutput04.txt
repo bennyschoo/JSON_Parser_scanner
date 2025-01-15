@@ -1,0 +1,6 @@
+<{>
+<STR, false>
+<:>
+<BOOL, false>
+<}>
+<EOF>
